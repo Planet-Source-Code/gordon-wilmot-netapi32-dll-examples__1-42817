@@ -1,0 +1,100 @@
+**********************************************************************
+netapi32_dll_Examples (Version 1.00.000)                    README.TXT
+Copyright (c) 2003 ICEnetware Ltd                   January  15th 2003
+
+**********************************************************************
+                        HOW TO USE THIS DOCUMENT
+**********************************************************************
+
+To view README.TXT on screen in Notepad or WordPad, maximize the
+Notepad or WordPad window.
+
+To print README.TXT in Notepad or WordPad, choose Print from the File
+menu.  If you use another word processor, select the entire document
+and format the text in 10-point Courier before printing to ensure
+proper spacing.
+
+To print README.TXT from the DOS prompt, type COPY README.TXT PRN:
+
+
+**********************************************************************
+                              CONTENTS
+**********************************************************************
+
+This README.TXT file describes the netapi32_dll_Examples application.  
+The following topics are discussed:
+
+ * About netapi32_dll_Examples .exe
+ * Version Info
+ * netapi32_dll_Examples Functionality
+ * Properties
+ * Running the Analysis
+ * Technical Information
+ * Known Issues
+
+
+**********************************************************************
+                     ABOUT netapi32_dll_Examples
+**********************************************************************
+
+netapi32_dll_Examples is a simple application to demonstrate the
+information that can be retrieved using the netapi32.dll API.
+
+**********************************************************************
+                              VERSION INFO
+**********************************************************************
+
+To determine the exact version of the netapi32_dll_Examples, read the 
+version as displayed on the Application Title Bar.
+
+**********************************************************************
+                    netapi32_dll_Examples FUNCTIONALITY
+**********************************************************************
+
+When first executed the application will build up a list of computer,
+users, groups and local groups in a tree structure.
+
+The tree can be refreshed at anytime by selecting View=>Refresh from
+the menu.
+
+If any network entity is highlighted in the tree, associated data is
+displayed in the right-hand text panel. The type of data displayed
+will depend on the network entity selected.
+
+**********************************************************************
+                              PROPERTIES
+**********************************************************************
+
+There are no properties to be configured and nothing is stored in the 
+registry.
+
+**********************************************************************
+                   INSTALLING/UNINSTALLING netapi32_dll_Examples
+**********************************************************************
+
+To install run the setup program from the software release directory.
+
+To uninstall netapi32_dll_Examples:
+
+1. From the Start menu, select Settings > Control Panel.
+
+2. Double-click Add/Remove Programs.  
+
+3. Select netapi32_dll_Examples from the list, then click Add/Remove.
+
+**********************************************************************
+                        TECHNICAL INFORMATION
+**********************************************************************
+
+netapi32_dll_Examples MUST be run on a Windows 2000 or later OS.
+
+**********************************************************************
+                            KNOWN ISSUES
+**********************************************************************
+
+* None at this time
+* If any found go to www.ICEnetware.com and let us know.
+
+**********************************************************************
+                            END OF FILE
+**********************************************************************

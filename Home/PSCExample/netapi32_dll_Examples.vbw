@@ -1,0 +1,5 @@
+frmMain = 49, 138, 937, 737, C, 0, 0, 0, 0, C
+AppMain = 31, 101, 917, 651, C
+ICE_NetFunctions = 139, 129, 882, 679, C
+frmAbout = 35, 129, 724, 679, C, 0, 0, 0, 0, C
+frmSplash = 35, 129, 482, 679, CZ, 0, 0, 0, 0, C
